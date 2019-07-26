@@ -1,5 +1,5 @@
 # Pequeñas Violencias
-Essentials I used to create the record "Pequeñas Violencias" with Theremin and Machine Learning
+Essentials I used to create the record "Pequeñas Violencias" with Theremin and Machine Learning: https://antisentido.bandcamp.com/album/peque-as-violencias
 
 Pequeñas Violencias is a collection of improvisations with theremin and machine learning.
 I used the amazing software Wekinator: https://github.com/fiebrink1/wekinator
