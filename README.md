@@ -1,4 +1,4 @@
-# Pequeñass Violencias
+# Pequeñas Violencias
 Essentials I used to create the record "Pequeñas Violencias" with Theremin and Machine Learning
 
 Pequeñas Violencias is a collection of improvisations with theremin and machine learning.
